@@ -2,6 +2,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/ipazooki/CleanArchitecture)
 ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/ipazooki/CleanArchitecture/dotnet.yml)
 
+Amazing
 ## Clean Architecture 🏗️
 
 Welcome to the Clean Architecture template with Minimal API! This project serves as a starting point for building robust and maintainable applications using Clean Architecture principles.
